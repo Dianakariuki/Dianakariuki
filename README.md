@@ -20,7 +20,7 @@
 
 <div style="display:inline-flex;flex-wrap:wrap">
 
-  <img align="center" alt="Dianakariuki" height="80%" width="80%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="center" alt="Dianakariuki" height="70%" width="70%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
   
   
 </div>
@@ -79,6 +79,7 @@ hobbies: ["Reading", "Art"]
   <img height="200rem" width="300rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dianakariuki&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/Dianakariuki/Dianakariuki/blob/output/github-contribution-grid-snake.svg)
-
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
