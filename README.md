@@ -34,7 +34,6 @@ Stack : Full Stack Developer
 education:
   [
     "Software engeneering in Moringa School",
-    
     "Bachelor's degree in Kenyatta University",
   ]
 
@@ -47,11 +46,8 @@ fields_of_interests:
     "Design",
     
   ]
-
-  
 currently_learning: ["React"]
-
-hobbies: ["Gaming", "Art"]
+hobbies: ["Reading", "Art"]
 ```
   
 ---  
@@ -78,8 +74,10 @@ hobbies: ["Gaming", "Art"]
 
 ---
 <h2> 📈 &nbsp;My GitHub History!</h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dianakariuki&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianakariuki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="200rem" width="400rem" src="https://github-readme-stats.vercel.app/api?username=Dianakariuki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="200rem" width="300rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dianakariuki&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ![Snake animation](https://github.com/Dianakariuki/Dianakariuki/blob/output/github-contribution-grid-snake.svg)
 
