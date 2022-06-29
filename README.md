@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and Chat!💬
+  Let's Connect and Chat!
 </h1>
 
 <p align="center">
@@ -18,9 +18,13 @@
 </p>
 
 
-<p align="center">
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
-</p>
+<div style="display:inline-flex;flex-wrap:wrap">
+
+  <img align="center" alt="Dianakariuki" height="80%" width="80%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  
+  
+</div>
+  
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
