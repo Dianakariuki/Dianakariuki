@@ -33,7 +33,7 @@ located_in: Nairobi , Kenya
 Stack : Full Stack Developer
 education:
   [
-    "Software engeneering in Moringa School",
+    "Software development in Moringa School",
     "Bachelor's degree in Kenyatta University",
   ]
 
