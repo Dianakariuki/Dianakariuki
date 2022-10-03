@@ -44,6 +44,7 @@ fields_of_interests:
     "Frontend ",
     "Backend",
     "Design",
+    "Accessibility tester",
     
   ]
 currently_learning: ["React"]
